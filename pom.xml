@@ -230,7 +230,7 @@
             <plugin>
                 <groupId>io.apicurio</groupId>
                 <artifactId>apicurio-registry-maven-plugin</artifactId>
-                <version>${registry.version}</version>
+                <version>${apicurio-registry-maven-plugin.version}</version>
                 <executions>
                   <execution>
                     <phase>generate-sources</phase>
