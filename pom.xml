@@ -242,7 +242,7 @@
                       <artifacts>
                         <artifact>
                             <groupId>it.test</groupId> 
-                            <artifactId>quarkus-final-api</artifactId>
+                            <artifactId>quarkus-final</artifactId>
                             <file>${project.build.directory}/classes/api-registry/quarkus-final-api.json</file>
                             <overwrite>true</overwrite>
                         </artifact>
