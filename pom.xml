@@ -241,7 +241,7 @@
                       <registryUrl>http://apicurioregistry-sql.apicurio-registry.router-default.apps.cluster-kl9ng.kl9ng.sandbox2997.opentlc.com</registryUrl> 
                       <artifacts>
                         <artifact>
-                            <groupId>it.test</groupId> 
+                            <groupId>com.redhat</groupId> 
                             <artifactId>quarkus-final</artifactId>
                             <file>${project.build.directory}/classes/api-registry/quarkus-final-api.json</file>
                             <overwrite>true</overwrite>
